@@ -1,0 +1,34 @@
+body{
+    background: #111;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    font-family: 'Times New Roman', sans-serif;
+    background-image: url(https://source.unsplash.com/1920x1080?Nature);
+}
+
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+color: yellow;
+width: 400 px;
+max-width: 800px;
+font-size: xxx-large;
+background: #00BFFF;
+border: 1px solid black;
+width: 170 px;
+height: 135px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}

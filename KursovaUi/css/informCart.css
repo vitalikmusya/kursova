@@ -1,0 +1,29 @@
+.inform_cart{
+    display: flex;
+    align-items: center;
+    max-width: 1500px;
+    font-size: 25px;
+
+}
+
+.under_inform_cart{
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+}
+.information_baro_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 10px;
+    background: #00BFFF;
+    color: yellow;
+    border: 1px solid black;
+    width: 170 px;
+    height: 135px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 35px;
+}
+
+
